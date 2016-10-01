@@ -1,0 +1,11 @@
+commit 6c8440001c634358891fe2376efad6cb4c7592b1
+Author: user <user@USER-PC>
+Date:   Fri Sep 30 22:41:54 2016 +0200
+
+    Add project files.
+
+commit ccaed8ed5d7d13cf78a67ab64857e591b02d9e01
+Author: user <user@USER-PC>
+Date:   Fri Sep 30 22:41:53 2016 +0200
+
+    Add .gitignore and .gitattributes.
