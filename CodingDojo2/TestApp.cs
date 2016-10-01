@@ -8,7 +8,8 @@ namespace CodingDojo2
 {
     class TestApp
     {
-        //Adding some string to test push 
+        //Adding some string to test push
+        //Adding some comment string from git hub side to check pull
         static void Main(string[] args)
         {
             TestWithObject();
